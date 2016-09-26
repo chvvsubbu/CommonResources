@@ -1,0 +1,2 @@
+# CommonResources
+documents purpose
